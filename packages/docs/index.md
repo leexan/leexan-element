@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Leexan-Element"
-  text: "高仿Element组件库"
+  text: "高仿 Element组件库"
   tagline: My great project tagline
   actions:
     - theme: brand
